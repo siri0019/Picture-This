@@ -12,6 +12,7 @@ body {
   grid-template-columns: 1fr;
   align-items: center;
   background-color: cadetblue;
+  max-width: 2400px;
 }
 
 .title {
